@@ -21,4 +21,4 @@ Consiste em um menu de avaliação interativo, ao escolher a nota ele troca a te
 
 <p>Made by my👨🏻‍💻</p>
 
-<button><a href="https://dreamy-alfajores-585691.netlify.app">Access here</a></button>
+<button><a href="https://sparkly-gingersnap-0d40a7.netlify.app">Access here</a></button>
